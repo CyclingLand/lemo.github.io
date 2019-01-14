@@ -38,19 +38,30 @@ body, html {
 .title2 {
 	text-align: center;
 }
+
+
+.offerte {
+	max-width: 50%;
+}
+
+label {
+	color: #FFFFFF;
+}
 /*Sections*/
 #section1 {
 	margin-top: 50px;
+	text-align: left;
 }
 
 #section2 {
 	margin-top: 50px;
-	min-height: 70%;
+	padding-bottom: 70px;
+	margin-bottom: 70px;
 	background-color: #007aff;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	text-align: right;
+	text-align: left;
 }
 
 
